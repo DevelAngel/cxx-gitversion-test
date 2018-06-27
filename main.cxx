@@ -3,6 +3,6 @@
 
 int main()
 {
-	std::cout << "Hello World 0.0.3!" << std::endl;
+	std::cout << "Hello World 0.0.3.1!" << std::endl;
 	return EXIT_SUCCESS;
 }
